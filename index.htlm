@@ -9,7 +9,8 @@
 <header>Hello, world</header>
 <section></section>	
 	
-<body>
+<body> 
+	<p>lorem ipsum bla bla bla </p>
 </body>
 
 </html>
